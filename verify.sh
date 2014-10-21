@@ -21,7 +21,7 @@ SystemVersion=`uname`
 # 使用说明：
 # 有三个参数，第一个是p12文件所在的路径；第二个是p12文件的导入密码；第三个是mobileprovision文件所在的路径
 # 例子：
-# ./ios_verify2.sh ming.p12 mdby2013 ming.mobileprovision
+# ./verify.sh ming.p12 password ming.mobileprovision
 
 
 # 从p12文件，获取appid、证书的类型、证书开通的服务、是否有效
