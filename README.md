@@ -13,6 +13,12 @@
 
 3. 可以验证p12证书和MobileProvision文件是什么类型的？是开发者版本证书，还是release版本证书，还是签名或者推送证书。
 
+## 依赖
+
+这个shell 需要用到 xmlstarlet 这个免费的xml解析命令行工具，使用之前需要安装：
+
+    apt-get install xmlstarlet
+
 ## 快速使用
 
 直接在命令行下输入：
