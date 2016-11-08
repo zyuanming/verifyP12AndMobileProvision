@@ -44,4 +44,4 @@ thanks for all these resources to help me do this.
 
 ## License
 
-Released under [MIT License.](https://github.com/zhiquan911/CHKLineChart/blob/master/LICENSE) 
+Released under [MIT License.](https://github.com/zyuanming/verifyP12AndMobileProvision/blob/master/LICENSE) 
