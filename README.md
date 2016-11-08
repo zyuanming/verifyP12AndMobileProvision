@@ -25,9 +25,9 @@ run the script in command line:
 
     ./verify.sh ming.p12 password ming.mobileprovision
 
-## 参考文档
+## Third Resources
 
-如果没有网络上无私的分享，这个shell脚本也不会出现，感谢所有分享者，是他们的劳动促成了这个小小的shell工具脚本
+thanks for all these resources to help me do this.
 
 <http://stackoverflow.com/questions/9497719/how-to-extract-a-public-private-key-from-a-pkcs12-file-with-openssl-for-later-us>
 
